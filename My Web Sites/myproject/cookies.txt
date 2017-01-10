@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.megadrupal.com	TRUE	/	FALSE	1999999999	__cfduid	d9511d59058099c15c21c950ef4bf87981483977361
+
